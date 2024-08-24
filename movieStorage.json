@@ -12,7 +12,9 @@
     "movie_duration": 169,
     "poster_url":
       "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
-    "price": "120.00"
+    "price": "120.00",
+    "trailer": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
+    "watch_online": "https://viaplay.dk/film/interstellar-2014"
   },
   {
     "id": 2,
@@ -27,7 +29,9 @@
     "movie_duration": 142,
     "poster_url":
       "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
-    "price": "110.00"
+    "price": "110.00",
+    "trailer": "https://www.youtube.com/watch?v=PLl99DlL6b4",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 3,
@@ -42,7 +46,9 @@
     "movie_duration": 148,
     "poster_url":
       "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
-    "price": "115.00"
+    "price": "115.00",
+    "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+    "watch_online": "https://viaplay.dk/film/inception-2010"
   },
   {
     "id": 4,
@@ -57,7 +63,9 @@
     "movie_duration": 152,
     "poster_url":
       "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
-    "price": "125.00"
+    "price": "125.00",
+    "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 5,
@@ -72,7 +80,9 @@
     "movie_duration": 154,
     "poster_url":
       "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
-    "price": "105.00"
+    "price": "105.00",
+    "trailer": "https://www.youtube.com/watch?v=s7EdQ4FqbhY",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 6,
@@ -87,7 +97,9 @@
     "movie_duration": 175,
     "poster_url":
       "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iVZ3JAcAjmguGPnRNfWFOtLHOuY.jpg",
-    "price": "130.00"
+    "price": "130.00",
+    "trailer": "https://www.youtube.com/watch?v=UaVTIH8mujA",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 7,
@@ -102,7 +114,9 @@
     "movie_duration": 136,
     "poster_url":
       "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
-    "price": "115.00"
+    "price": "115.00",
+    "trailer": "https://www.youtube.com/watch?v=vKQi3bBA1y8",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 8,
@@ -117,7 +131,9 @@
     "movie_duration": 139,
     "poster_url":
       "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg",
-    "price": "120.00"
+    "price": "120.00",
+    "trailer": "https://www.youtube.com/watch?v=BdJKm16Co6M",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 9,
@@ -132,7 +148,9 @@
     "movie_duration": 142,
     "poster_url":
       "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h5J4W4veyxMXDMjeNxZI46TsHOb.jpg",
-    "price": "110.00"
+    "price": "110.00",
+    "trailer": "https://www.youtube.com/watch?v=XHhAG-YLdk8",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 10,
@@ -147,7 +165,9 @@
     "movie_duration": 108,
     "poster_url":
       "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/83X4VwY9sdSJykskmsplIVG0a4h.jpg",
-    "price": "115.00"
+    "price": "115.00",
+    "trailer": "https://www.youtube.com/watch?v=ciuvNsG10_E",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 11,
@@ -162,7 +182,9 @@
     "movie_duration": 151,
     "poster_url":
       "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",
-    "price": "125.00"
+    "price": "125.00",
+    "trailer": "https://www.youtube.com/watch?v=SNA-Ezahmok",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 12,
@@ -177,7 +199,9 @@
     "movie_duration": 155,
     "poster_url":
       "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
-    "price": "120.00"
+    "price": "120.00",
+    "trailer": "https://www.youtube.com/watch?v=P5ieIbInFpg",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 13,
@@ -190,7 +214,9 @@
     "age_rating": "G",
     "movie_duration": 88,
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
-    "price": "100.00"
+    "price": "100.00",
+    "trailer": "https://www.youtube.com/watch?v=7TavVZMewpY",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 14,
@@ -203,7 +229,9 @@
     "age_rating": "PG-13",
     "movie_duration": 127,
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9i3plLl89DHMz7mahksDaAo7HIS.jpg",
-    "price": "105.00"
+    "price": "105.00",
+    "trailer": "https://www.youtube.com/watch?v=QWBKEmWWL38",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 15,
@@ -216,7 +244,9 @@
     "age_rating": "PG-13",
     "movie_duration": 194,
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yDI6D5ZQh67YU4r2ms8qcSbAviZ.jpg",
-    "price": "120.00"
+    "price": "120.00",
+    "trailer": "https://www.youtube.com/watch?v=CHekzSiZjrY",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 16,
@@ -229,7 +259,9 @@
     "age_rating": "PG-13",
     "movie_duration": 162,
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6EiRUJpuoeQPghrs3YNktfnqOVh.jpg",
-    "price": "130.00"
+    "price": "130.00",
+    "trailer": "https://www.youtube.com/watch?v=5PSNL1qE6VY",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 17,
@@ -242,7 +274,9 @@
     "age_rating": "PG-13",
     "movie_duration": 143,
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
-    "price": "150.00"
+    "price": "150.00",
+    "trailer": "https://www.youtube.com/watch?v=eOrNdBpGMv8",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 18,
@@ -255,7 +289,9 @@
     "age_rating": "R",
     "movie_duration": 118,
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rplLJ2hPcOQmkFhTqUte0MkEaO2.jpg",
-    "price": "125.00"
+    "price": "125.00",
+    "trailer": "https://www.youtube.com/watch?v=6iB21hsprAQ",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 19,
@@ -268,7 +304,9 @@
     "age_rating": "R",
     "movie_duration": 195,
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
-    "price": "140.00"
+    "price": "140.00",
+    "trailer": "https://www.youtube.com/watch?v=gG22XNhtnoY",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 20,
@@ -281,7 +319,9 @@
     "age_rating": "R",
     "movie_duration": 151,
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jyAgiqVSx5fl0NNj7WoGGKweXrL.jpg",
-    "price": "115.00"
+    "price": "115.00",
+    "trailer": "https://www.youtube.com/watch?v=iojhqm0JTW4",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 21,
@@ -294,7 +334,9 @@
     "age_rating": "PG-13",
     "movie_duration": 131,
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
-    "price": "160.00"
+    "price": "160.00",
+    "trailer": "https://www.youtube.com/watch?v=giXco2jaZ_4",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 22,
@@ -307,7 +349,9 @@
     "age_rating": "R",
     "movie_duration": 189,
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o0lO84GI7qrG6XFvtsPOSV7CTNa.jpg",
-    "price": "125.00"
+    "price": "125.00",
+    "trailer": "https://www.youtube.com/watch?v=Ki4haFrqSrw",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 23,
@@ -320,7 +364,9 @@
     "age_rating": "R",
     "movie_duration": 120,
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zszRKfzjM5jltiq8rk6rasKVpUv.jpg",
-    "price": "150.00"
+    "price": "150.00",
+    "trailer": "https://www.youtube.com/watch?v=qBG3iyr5N70",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 24,
@@ -333,7 +379,9 @@
     "age_rating": "PG",
     "movie_duration": 121,
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
-    "price": "140.00"
+    "price": "140.00",
+    "trailer": "https://www.youtube.com/watch?v=vZ734NWnAHA",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 25,
@@ -346,7 +394,9 @@
     "age_rating": "PG-13",
     "movie_duration": 178,
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
-    "price": "130.00"
+    "price": "130.00",
+    "trailer": "https://www.youtube.com/watch?v=V75dMMIW2B4",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 26,
@@ -359,7 +409,9 @@
     "age_rating": "PG-13",
     "movie_duration": 120,
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
-    "price": "115.00"
+    "price": "115.00",
+    "trailer": "https://www.youtube.com/watch?v=lB95KLmpLR4",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 27,
@@ -372,7 +424,9 @@
     "age_rating": "R",
     "movie_duration": 180,
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pWHf4khOloNVfCxscsXFj3jj6gP.jpg",
-    "price": "140.00"
+    "price": "140.00",
+    "trailer": "https://www.youtube.com/watch?v=iszwuX1AK6A",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 28,
@@ -385,7 +439,9 @@
     "age_rating": "R",
     "movie_duration": 120,
     "poster_url": "https://www.themoviedb.org/t/p/w1280/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
-    "price": "135.00"
+    "price": "135.00",
+    "trailer": "https://www.youtube.com/watch?v=hEJnMQG9ev8",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 29,
@@ -398,7 +454,9 @@
     "age_rating": "R",
     "movie_duration": 99,
     "poster_url": "https://www.themoviedb.org/t/p/w1280/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
-    "price": "115.00"
+    "price": "115.00",
+    "trailer": "https://www.youtube.com/watch?v=1Fg5iWmQjwk",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 30,
@@ -411,7 +469,9 @@
     "age_rating": "R",
     "movie_duration": 165,
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
-    "price": "130.00"
+    "price": "130.00",
+    "trailer": "https://www.youtube.com/watch?v=0fUCuvNlOCg",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 31,
@@ -424,7 +484,9 @@
     "age_rating": "R",
     "movie_duration": 112,
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zlyhKMi2aLk25nOHnNm43MpZMtQ.jpg",
-    "price": "110.00"
+    "price": "110.00",
+    "trailer": "https://www.youtube.com/watch?v=34WIbmXkewU",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 32,
@@ -437,7 +499,9 @@
     "age_rating": "R",
     "movie_duration": 153,
     "poster_url": "https://www.themoviedb.org/t/p/w1280/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
-    "price": "120.00"
+    "price": "120.00",
+    "trailer": "https://www.youtube.com/watch?v=KnrRy6kSFF0",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 33,
@@ -450,7 +514,9 @@
     "age_rating": "R",
     "movie_duration": 107,
     "poster_url": "https://www.themoviedb.org/t/p/w1280/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
-    "price": "115.00"
+    "price": "115.00",
+    "trailer": "https://www.youtube.com/watch?v=7d_jQycdQGo",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 34,
@@ -463,7 +529,9 @@
     "age_rating": "PG-13",
     "movie_duration": 164,
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vzvKcPQ4o7TjWeGIn0aGC9FeVNu.jpg",
-    "price": "135.00"
+    "price": "135.00",
+    "trailer": "https://www.youtube.com/watch?v=g8evyE9TuYk",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 35,
@@ -476,7 +544,9 @@
     "age_rating": "R",
     "movie_duration": 134,
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
-    "price": "125.00"
+    "price": "125.00",
+    "trailer": "https://www.youtube.com/watch?v=z02Ie8wKKRg",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 36,
@@ -489,7 +559,9 @@
     "age_rating": "PG-13",
     "movie_duration": 135,
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zwzWCmH72OSC9NA0ipoqw5Zjya8.jpg",
-    "price": "110.00"
+    "price": "110.00",
+    "trailer": "https://www.youtube.com/watch?v=9wZM7CQY130",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 37,
@@ -502,7 +574,9 @@
     "age_rating": "R",
     "movie_duration": 164,
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aMpyrCizvSdc0UIMblJ1srVgAEF.jpg",
-    "price": "140.00"
+    "price": "140.00",
+    "trailer": "https://www.youtube.com/watch?v=eogpIG53Cis",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 38,
@@ -515,7 +589,9 @@
     "age_rating": "PG-13",
     "movie_duration": 128,
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
-    "price": "120.00"
+    "price": "120.00",
+    "trailer": "https://www.youtube.com/watch?v=0pdqf4P9MB8",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 39,
@@ -528,7 +604,9 @@
     "age_rating": "PG",
     "movie_duration": 103,
     "poster_url": "https://www.themoviedb.org/t/p/w1280/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
-    "price": "110.00"
+    "price": "110.00",
+    "trailer": "https://www.youtube.com/watch?v=dlnmQbPGuls",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 40,
@@ -541,7 +619,9 @@
     "age_rating": "PG-13",
     "movie_duration": 91,
     "poster_url": "https://www.themoviedb.org/t/p/w1280/kZ2nZw8D681aphje8NJi8EfbL1U.jpg",
-    "price": "105.00"
+    "price": "105.00",
+    "trailer": "https://www.youtube.com/watch?v=OiTiKOy59o4",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 41,
@@ -554,7 +634,9 @@
     "age_rating": "PG-13",
     "movie_duration": 117,
     "poster_url": "https://www.themoviedb.org/t/p/w1280/lBYOKAMcxIvuk9s9hMuecB9dPBV.jpg",
-    "price": "115.00"
+    "price": "115.00",
+    "trailer": "https://www.youtube.com/watch?v=DMOBlEcRuw8",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 42,
@@ -567,7 +649,9 @@
     "age_rating": "R",
     "movie_duration": 130,
     "poster_url": "https://www.themoviedb.org/t/p/w1280/isuQWbJPbjybBEWdcCaBUPmU0XO.jpg",
-    "price": "115.00"
+    "price": "115.00",
+    "trailer": "https://www.youtube.com/watch?v=vgqG3ITMv1Q",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 43,
@@ -580,7 +664,9 @@
     "age_rating": "R",
     "movie_duration": 146,
     "poster_url": "https://www.themoviedb.org/t/p/w1280/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
-    "price": "120.00"
+    "price": "120.00",
+    "trailer": "https://www.youtube.com/watch?v=2ilzidi_J8Q",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 44,
@@ -593,7 +679,9 @@
     "age_rating": "R",
     "movie_duration": 122,
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6d5XOczc226jECq0LIX0siKtgHR.jpg",
-    "price": "125.00"
+    "price": "125.00",
+    "trailer": "https://www.youtube.com/watch?v=38A__WT3-o0",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   },
   {
     "id": 45,
@@ -606,7 +694,9 @@
     "age_rating": "R",
     "movie_duration": 108,
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
-    "price": "110.00"
+    "price": "110.00",
+    "trailer": "https://www.youtube.com/watch?v=07-QBnEkgXU",
+    "watch_online": "https://viaplay.dk/film/en-verden-udenfor-1994"
   }
 ]
 
